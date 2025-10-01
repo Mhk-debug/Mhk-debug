@@ -1,5 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm Min Hein Ko
 
+💻 A passionate full-stack developer from Myanmar.  
+🌱 Currently learning **Prisma & Auth0**  
+⚡ Exploring **Next.js & Chakra UI** 
+
+## 🚀 Skills
+- JavaScript, TypeScript
+- React, Next.js
+- Node.js, Express
+- MongoDB, Prisma
+
+  ## 📂 Featured Projects
+- [CryptoScope](https://github.com/Mhk-debug/Crypto-Scope) – A cryptocurrency tracking website with Next.js and coin gecko api 
+- [Blog Platform](https://github.com/Mhk-debug/MHK-Blog) – Full-stack blogging app with Next.js
+
+
+## 📫 Contact
+Email: minheinko124@gmail.com
+
+  ---
+⭐️ From [Mhk-debug](https://github.com/Mhk-debug)
 <!--
 **Mhk-debug/Mhk-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
