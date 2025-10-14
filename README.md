@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Min Hein Ko
 
 💻 A passionate full-stack developer from Myanmar.  
-🌱 Currently learning **Prisma & Auth0**  
+🌱 Currently learning **NextAuth**  
 ⚡ Exploring **Next.js & Chakra UI** 
 
 ## 🚀 Skills
-- JavaScript, TypeScript
+- JavaScript, TypeScript, Python
 - React, Next.js
 - Node.js, Express
-- MongoDB, Prisma
+- MongoDB, Prisma, MySQL
 
   ## 📂 Featured Projects
 - [CryptoScope](https://github.com/Mhk-debug/Crypto-Scope) – A cryptocurrency tracking website with Next.js and coin gecko api 
