@@ -1,8 +1,6 @@
 # Hi there 👋, I'm Min Hein Ko
 
-💻 A passionate full-stack developer from Myanmar.  
-🌱 Currently learning **NextAuth**  
-⚡ Exploring **Next.js & Chakra UI** 
+💻 A passionate 14 years old full-stack developer from Myanmar.  
 
 ## 🚀 Skills
 - JavaScript, TypeScript, Python
