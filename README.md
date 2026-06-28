@@ -1,10 +1,11 @@
 # Hi there 👋, I'm Min Hein Ko
 
-💻 A passionate 14 years old full-stack developer from Myanmar.  
+💻 A passionate 15 years old full-stack developer from Myanmar.  
 I started programming when i was 9.
 
 ## 🚀 Skills
-- JavaScript, TypeScript, Python
+- JavaScript, TypeScript
+- Python, Pandas, Numpy, Matplotlib
 - React, Next.js
 - Node.js, Express
 - MongoDB, Prisma, MySQL
